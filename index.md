@@ -14,7 +14,7 @@ title: Phi-Long Phan's CV
 ## Work Experience
 `since 04.2018`
 __The Boston Consulting Group GmbH__ Data Scientist ("Senior Analyst")
-- Created 
+- Created a Shiny app which aggregates dta 
 - Developed production planning forecasts for German heathcare equipment manufacturer
 
 `05.2016-03.2018`
