@@ -3,14 +3,22 @@ layout: cv
 title: Phi-Long Phan's CV
 ---
 # Phi-Long Phan
-Selma-Lagerloef Strasse 16, 81829 Munich | +49 151 68951341 | philong.phan@tum.de | 28.10.1991 | German nationality
+
+## Personal data
+- Selma-Lagerloef Strasse 16, 81829 Munich
+- +49 151 68951341 
+- philong.phan@tum.de 
+- 28.10.1991 
+- German nationality
 
 ## Work Experience
 `since 04.2018`
-__The Boston Consulting Group GmbH__
+__The Boston Consulting Group GmbH__ Data Scientist ("Senior Analyst")
+- Created 
+- Developed production planning forecasts for German heathcare equipment manufacturer
 
 `05.2016-03.2018`
-__The Boston Consulting Group GmbH__
+__The Boston Consulting Group GmbH__ Consultant ("Associate")
 
 ## Education
 
