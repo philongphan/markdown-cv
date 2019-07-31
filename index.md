@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Phi-Long Phan's CV
 ---
-# Isaac Newton
+# Phi-Long Phan
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
