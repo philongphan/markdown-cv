@@ -3,27 +3,14 @@ layout: cv
 title: Phi-Long Phan's CV
 ---
 # Phi-Long Phan
-Physicist, Mathematician, Cambridge professor.
+Selma-Lagerloef Strasse 16, 81829 Munich | +49 151 68951341 | philong.phan@tum.de | 28.10.1991 | German nationality
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## Work Experience
+`since 04.2018`
+__The Boston Consulting Group GmbH__
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`05.2016-03.2018`
+__The Boston Consulting Group GmbH__
 
 ## Education
 
